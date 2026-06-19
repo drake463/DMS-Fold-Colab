@@ -54,9 +54,9 @@ from openfold.utils.trace_utils import (
 
 from scripts.precompute_embeddings import EmbeddingGenerator
 from scripts.utils import add_data_args
-from scripts.burial_score import burial_score
+from openfold.utils.burial_score import burial_score
 
-from openfold.data.msa_subsampling import subsample_msa_sequentially, get_eff 
+from openfold.utils.msa_subsampling import subsample_msa_sequentially, get_eff 
 
 TRACING_INTERVAL = 50
 
