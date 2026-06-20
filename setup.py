@@ -118,7 +118,7 @@ setup(
     author='OpenFold Team',
     author_email='jennifer.wei@omsf.io',
     license='Apache License, Version 2.0',
-    url='https://github.com/aqlaboratory/openfold',
+    url='https://github.com/drake463/DMS-Fold-Colab',
     packages=find_packages(exclude=["tests", "scripts"]),
     include_package_data=True,
     package_data={
